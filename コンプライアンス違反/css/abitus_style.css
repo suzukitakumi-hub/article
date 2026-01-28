@@ -1770,6 +1770,11 @@ p {
   font-weight: 400;
   color: #333333;
   line-height: 1.6;
+  /* Force display (override Abitus default accordion styles) */
+  display: block !important;
+  visibility: visible !important;
+  height: auto !important;
+  opacity: 1 !important;
 }
 
 /* A Icon */
