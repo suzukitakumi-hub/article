@@ -191,6 +191,56 @@ p {
   margin-top: 0;
 }
 
+/* Abitus Column Style Headings */
+.c-heading-seco {
+  position: relative;
+  margin: var(--spacing-lg) 0 var(--spacing-md);
+  padding-left: 20px;
+}
+
+.c-heading-seco::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 6px;
+  background: linear-gradient(to bottom, var(--brand-blue) 0%, var(--brand-navy) 100%);
+}
+
+.c-heading-seco h2 {
+  margin: 0;
+  font-size: var(--font-size-h2);
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: var(--line-height-heading);
+}
+
+.c-heading-tert {
+  position: relative;
+  margin: var(--spacing-md) 0 var(--spacing-sm);
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.c-heading-tert::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 60px;
+  height: 3px;
+  background-color: var(--brand-blue);
+}
+
+.c-heading-tert h3 {
+  margin: 0;
+  font-size: var(--font-size-h3);
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: var(--line-height-heading);
+}
+
 /* ============================================
    Header
    ============================================ */
@@ -1477,200 +1527,202 @@ p {
 .note {
   font-size: var(--font-size-sm);
   color: var(--text-secondary);
-}/* ============================================
+}
+
+/* ============================================
    Article Rewrite Specific Styles (Added)
    ============================================ */
 
 /* Lead Text (Refresh) */
 .lead-text {
-    background-color: var(--bg-light);
-    border: 1px solid var(--border-color);
-    padding: 30px;
-    margin-bottom: 40px;
-    border-radius: 4px;
+  background-color: var(--bg-light);
+  border: 1px solid var(--border-color);
+  padding: 30px;
+  margin-bottom: 40px;
+  border-radius: 4px;
 }
 
 .lead-text p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 /* In-Article CTA Box */
 .cta-box {
-    background-color: #f0f7ff;
-    border: 2px solid var(--brand-blue);
-    padding: 24px;
-    text-align: center;
-    margin: 40px 0;
-    border-radius: 8px;
+  background-color: #f0f7ff;
+  border: 2px solid var(--brand-blue);
+  padding: 24px;
+  text-align: center;
+  margin: 40px 0;
+  border-radius: 8px;
 }
 
 .cta-box p {
-    font-size: 18px;
-    color: var(--brand-navy);
-    margin-bottom: 16px;
-    font-weight: 700;
+  font-size: 18px;
+  color: var(--brand-navy);
+  margin-bottom: 16px;
+  font-weight: 700;
 }
 
 /* Triangle Box (Dl List) */
 .triangle-box {
-    background-color: var(--bg-white);
-    border: 1px solid var(--border-color);
-    padding: 30px;
-    margin: 30px 0;
-    border-left: 5px solid var(--brand-navy);
+  background-color: var(--bg-white);
+  border: 1px solid var(--border-color);
+  padding: 30px;
+  margin: 30px 0;
+  border-left: 5px solid var(--brand-navy);
 }
 
 .triangle-box dl {
-    margin: 0;
+  margin: 0;
 }
 
 .triangle-box dt {
-    font-weight: 700;
-    color: var(--brand-navy);
-    font-size: 18px;
-    margin-bottom: 8px;
-    margin-top: 24px;
+  font-weight: 700;
+  color: var(--brand-navy);
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 24px;
 }
 
 .triangle-box dt:first-child {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .triangle-box dd {
-    margin-left: 0;
-    margin-bottom: 0;
-    line-height: 1.6;
+  margin-left: 0;
+  margin-bottom: 0;
+  line-height: 1.6;
 }
 
 /* Comparison Table */
 .table-responsive {
-    overflow-x: auto;
-    margin: 30px 0;
+  overflow-x: auto;
+  margin: 30px 0;
 }
 
 .comparison-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 14px;
-    min-width: 600px;
-    /* Ensure table doesn't get too squashed */
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  min-width: 600px;
+  /* Ensure table doesn't get too squashed */
 }
 
 .comparison-table th,
 .comparison-table td {
-    border: 1px solid #ddd;
-    padding: 12px;
-    text-align: left;
-    vertical-align: top;
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
 }
 
 .comparison-table th {
-    background-color: var(--brand-navy);
-    color: white;
-    white-space: nowrap;
-    font-weight: 700;
+  background-color: var(--brand-navy);
+  color: white;
+  white-space: nowrap;
+  font-weight: 700;
 }
 
 .comparison-table tr:nth-child(even) {
-    background-color: #f9f9f9;
+  background-color: #f9f9f9;
 }
 
 /* Check List (Ordered) */
 .check-list {
-    background-color: #fff8e1;
-    /* Light yellow background */
-    padding: 30px 30px 30px 50px;
-    border: 1px solid #ffe082;
-    border-radius: 4px;
-    margin: 30px 0;
+  background-color: #fff8e1;
+  /* Light yellow background */
+  padding: 30px 30px 30px 50px;
+  border: 1px solid #ffe082;
+  border-radius: 4px;
+  margin: 30px 0;
 }
 
 .check-list li {
-    margin-bottom: 20px;
-    font-weight: 700;
-    color: var(--text-primary);
-    line-height: 1.6;
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.6;
 }
 
 .check-list li:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 /* Large CTA Area */
 .cta-area-large {
-    background-color: var(--brand-navy);
-    color: white;
-    padding: 60px 20px;
-    text-align: center;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    border-radius: 8px;
+  background-color: var(--brand-navy);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 8px;
 }
 
 .cta-area-large h3 {
-    color: white;
-    font-size: 26px;
-    margin-bottom: 16px;
+  color: white;
+  font-size: 26px;
+  margin-bottom: 16px;
 }
 
 .cta-area-large p {
-    font-size: 18px;
-    margin-bottom: 30px;
-    opacity: 0.9;
+  font-size: 18px;
+  margin-bottom: 30px;
+  opacity: 0.9;
 }
 
 /* Button Aliases & Updates */
 .btn-primary {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 14px 40px;
-    background-color: var(--brand-navy);
-    color: white;
-    text-decoration: none;
-    font-weight: 700;
-    border-radius: 4px;
-    transition: all 0.2s;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 40px;
+  background-color: var(--brand-navy);
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 4px;
+  transition: all 0.2s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .btn-primary:hover {
-    background-color: var(--brand-navy-dark);
-    text-decoration: none;
-    color: white;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  background-color: var(--brand-navy-dark);
+  text-decoration: none;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
 }
 
 .btn-secondary {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 14px 40px;
-    background-color: white;
-    color: var(--brand-navy);
-    text-decoration: none;
-    font-weight: 700;
-    border-radius: 4px;
-    border: 2px solid white;
-    transition: all 0.2s;
-    margin-left: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 40px;
+  background-color: white;
+  color: var(--brand-navy);
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 4px;
+  border: 2px solid white;
+  transition: all 0.2s;
+  margin-left: 10px;
 }
 
 .btn-secondary:hover {
-    background-color: transparent;
-    color: white;
-    text-decoration: none;
+  background-color: transparent;
+  color: white;
+  text-decoration: none;
 }
 
 @media (max-width: 600px) {
-    .btn-secondary {
-        margin-left: 0;
-        margin-top: 10px;
-    }
+  .btn-secondary {
+    margin-left: 0;
+    margin-top: 10px;
+  }
 
-    .cta-buttons {
-        display: flex;
-        flex-direction: column;
-    }
+  .cta-buttons {
+    display: flex;
+    flex-direction: column;
+  }
 }
