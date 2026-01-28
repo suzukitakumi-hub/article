@@ -1726,3 +1726,62 @@ p {
     flex-direction: column;
   }
 }
+
+/* ========================================
+   FAQ (Q&A) SECTION
+   ======================================== */
+
+/* FAQ Container */
+.c-qa {
+  margin-top: 40px;
+  padding: 0;
+}
+
+/* FAQ Item: Question */
+.c-qa__q {
+  position: relative;
+  padding: 14px 40px 16px 50px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+/* Q Icon */
+.c-qa__q::before {
+  content: "Q";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: #024796;
+  display: block;
+}
+
+/* FAQ Item: Answer */
+.c-qa__a {
+  position: relative;
+  padding: 0 0 30px 50px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* A Icon */
+.c-qa__a::before {
+  content: "A";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: #9BAA34;
+  display: block;
+}
