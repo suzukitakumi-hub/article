@@ -146,4 +146,22 @@ git commit -m "new: {slug} — KW: {target_keyword} ({YYYY-MM-DD})"
 - `{target_keyword}` = 対策KW
 - `{YYYY-MM-DD}` = 実行日（現地時間）
 
-コミット完了後、メタコメント（「以上です」「修正があれば」等）は一切付けない。
+## WordPress 下書き保存（最終ステップ）
+
+Gitコミット完了後、以下のルールでWordPressへの送信処理を行う。
+
+- **`mode=new`（新規作成）の場合:**
+  エージェントが自動で下書き保存を実行する。
+  ```bash
+  python scripts/wp_post.py output/{slug}.html --slug "{slug}" --title "{タイトル}" --yes
+  ```
+
+- **`mode=rewrite`（リライト）の場合:**
+  **エージェントは自動実行してはいけない。**
+  「完成ファイルを出力・Gitコミットまで完了しました。内容を確認し、問題なければ以下のコマンドでWordPressへ下書き保存してください。」というメッセージとともに、実行するコマンドを案内して終了する。
+  ```bash
+  # WP側で該当記事の既存IDがわかる場合は --post-id {ID} を付けると確実です
+  python scripts/wp_post.py output/{slug}.html
+  ```
+
+これらを以て、すべての作業を完了とする。メタコメント（「以上です」「修正があれば」等）は一切付けない。
