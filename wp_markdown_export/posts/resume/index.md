@@ -18,7 +18,7 @@ coverImage: "resume.jpg"
 
 日本の履歴書は、海外と比較すると、写真の撮り方に細かい決まりがある、学歴・職歴は古い順に記載する等、独特のルールが多くあります。特に志望動機の欄については、海外ではカバーレターという形式で任意提出が主流であり、履歴書自体に記載する文化がありません。
 
-![](images/s-941x329_v-fs_webp_95f4d7ff-0b69-4bd7-bc60-412c5da5bac5.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-941x329_v-fs_webp_95f4d7ff-0b69-4bd7-bc60-412c5da5bac5.png)
 
 このような違いを理解した上で評価することが大切です。形式の違いが見えることで、決して本人の能力不足とは限らないと認識できるようになります。
 
@@ -30,7 +30,7 @@ coverImage: "resume.jpg"
 
 こちらは、個人情報など加工していますが実際にあった履歴書の例です。
 
-![履歴書例](images/s-1077x1034_v-fs_webp_1e0da272-c6c9-41a7-a2e2-adf3863c8bb6.png)
+![履歴書例](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1077x1034_v-fs_webp_1e0da272-c6c9-41a7-a2e2-adf3863c8bb6.png)
 
 こちらの履歴書には、氏名の「フリガナ」にひらがなが混在していたり、国籍が英語表記になっていたり、学歴や職歴が「入学・入社」のタイミングのみ記載されていたりと、修正が必要な点がいくつか見受けられます。ただし、こうした誤りに本人が一人で気づくことは非常に難しいといえるでしょう。
 
@@ -40,7 +40,7 @@ coverImage: "resume.jpg"
 
 また、履歴書の内容から、応募者の日本語力や学習状況を推測することも可能です。
 
-![](images/s-1112x1041_v-fs_webp_fa5ee130-5cac-402a-b2c0-4db29e147dd4.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1112x1041_v-fs_webp_fa5ee130-5cac-402a-b2c0-4db29e147dd4.png)
 
 こちらの履歴書からは、下記のことが読み取れます。
 

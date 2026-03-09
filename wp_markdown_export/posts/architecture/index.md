@@ -164,7 +164,7 @@ TCJグローバルでは、特定技能人材をご採用いただいた企業�
 
 ### 株式会社TCJグローバル（信濃町）
 
-![](images/2025-12-28_02h36_30-768x476.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/12/2025-12-28_02h36_30-768x476.png)
 
 TCJグローバルは、1988年創業、37年以上の日本語教育実績を持つ東京中央日本語学院を母体とした外国人材紹介会社です。建築業界で最も重要な「日本語能力の評価」に強みを持ち、現場で本当に使えるコミュニケーション力を持った人材をご紹介します。
 
@@ -204,7 +204,7 @@ TCJグローバルは、1988年創業、37年以上の日本語教育実績を�
 
 ### マイナビグローバル（千代田区）
 
-![](images/2025-12-27_02h42_41-768x406.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/12/2025-12-27_02h42_41-768x406.png)
 
 https://global-saponet.mgl.mynavi.jp
 
@@ -216,7 +216,7 @@ https://global-saponet.mgl.mynavi.jp
 
 ### ウィルオブ・ワーク（新宿区）
 
-![](images/2025-12-27_02h43_13-768x323.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/12/2025-12-27_02h43_13-768x323.png)
 
 https://willof-work.co.jp
 

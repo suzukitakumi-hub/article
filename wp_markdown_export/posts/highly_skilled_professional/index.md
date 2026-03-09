@@ -16,7 +16,7 @@ coverImage: "highly_skilled_professional.jpg"
 
  以下のグラフは、日本での2012年から2024年までの高度専門職の人数の推移を示しています。 グラフからも分かるように、高度専門職の人数はここ数年で急増しています。特に「専門・技術」分野では顕著な増加が見られ、今後も外国人高度人材の需要は更に高まると予想されています。この傾向は、企業がグローバルな競争力を高めるために、より多くの高度なスキルを持つ人材を必要としていることを反映しています。
 
-![高度専門職の推移](images/s-507x313_webp_d2ee61bb-3f6a-4e5b-b478-ee312de5213d.png)
+![高度専門職の推移](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-507x313_webp_d2ee61bb-3f6a-4e5b-b478-ee312de5213d.png)
 
 参考：[出入国在留管理庁HP](https://www.moj.go.jp/isa/index.html)
 

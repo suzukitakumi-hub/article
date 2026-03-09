@@ -18,7 +18,7 @@ coverImage: "ChatGPT-Image-2026年1月19日-14_00_58.png"
 
 ## 育成就労制度とは？2027年4月施行の新制度を3分で理解
 
-![](images/2026-01-19_14h19_49.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2026/01/2026-01-19_14h19_49.png)
 
  
 

@@ -21,7 +21,7 @@ coverImage: "chinese_personnel.jpg"
 
 厚生労働省の「外国人雇用状況」の届出状況まとめによると、日本で働く中国人労働者は39.7万人（令和5年10月時点）となっています。これは外国人労働者全体の19.4%を占め、ベトナム人（51.8万人）に次いで2番目に高い割合です。少子高齢化の影響で日本人労働者が減少傾向にある中、多くの中国人労働者が日本で働き、日本の労働力不足を補っています。
 
-![国籍別外国人労働者割合](images/s-1280x960_v-fms_webp_e64048b1-321b-4af3-b690-af42952f5609.png)
+![国籍別外国人労働者割合](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1280x960_v-fms_webp_e64048b1-321b-4af3-b690-af42952f5609.png)
 
 出典：[「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）｜厚生労働省](https://www.mhlw.go.jp/stf/newpage_37084.html)
 
@@ -33,11 +33,11 @@ coverImage: "chinese_personnel.jpg"
 
 三番目に多いのが「資格外活動」で、約18%となっています。これは主に留学生のアルバイトなどが該当し、本来の在留目的以外の活動を許可されたものです。これら上位3つの在留資格で、日本で働く中国人労働者の約9割を占めています。
 
-![](images/s-1024x768_v-fs_webp_7b08321e-7c7c-4cdb-b297-eee7c3baa312.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_7b08321e-7c7c-4cdb-b297-eee7c3baa312.png)
 
 業種別では、卸売業・小売業が24.6％（82,909人）と最も多く、次いで製造業21％（70,919人）、宿泊業・飲食サービス業16.6％（55,814人）と続きます。情報通信業や建設業でも多くの中国人労働者が活躍しています。
 
-![産業別のグラフ](images/s-1024x768_v-fs_webp_41a62fc3-70e3-4c38-8113-76a9f92804f6.png)
+![産業別のグラフ](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_41a62fc3-70e3-4c38-8113-76a9f92804f6.png)
 
 出典：[「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）｜厚生労働省](https://www.mhlw.go.jp/stf/newpage_37084.html)
 

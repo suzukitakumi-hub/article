@@ -22,7 +22,7 @@ coverImage: "clear_japanese.jpg"
 
 対照的に、アメリカやカナダ、ドイツをはじめとする国々は「低コンテクスト文化」で、明確な言語化がコミュニケーションの大前提です。良いコミュニケーションとは、シンプルで明確であることであり、相手が言ったことを文字通り、そのまま受け取ります。
 
-![](images/s-983x402_v-fs_webp_4c151419-5ded-4f89-bc59-d0d9214d5f5f.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-983x402_v-fs_webp_4c151419-5ded-4f89-bc59-d0d9214d5f5f.png)
 
 ### 想像する以上に日本人の指示は曖昧
 

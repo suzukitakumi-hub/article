@@ -14,7 +14,7 @@ coverImage: "nursing_care_training.jpg"
 
 選考を通過し、EAPの介護福祉士候補者となったフィリピン人は、まずはフィリピン国内で「訪日前研修」を受けます。研修を修了し来日すると、すぐに「訪日後研修」が始まります。この研修を修了してはじめて、それぞれの受け入れ施設へと派遣されます。研修内容等は以下のとおりです。
 
-![EPAの研修の内容](images/s-2400x1411_v-frms_webp_b6d84154-7abe-4755-937a-e0a512c60dab.png)
+![EPAの研修の内容](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-2400x1411_v-frms_webp_b6d84154-7abe-4755-937a-e0a512c60dab.png)
 
 介護福祉士候補者たちは、施設派遣後は日常の業務を行いながら、介護福祉士国家試験へ向けて日本語学習や試験対策を行わなければなりません。そのため、訪日前・訪日後研修では、候補者の「自律学習」力の向上へ向けた指導も行われています。
 
@@ -22,7 +22,7 @@ coverImage: "nursing_care_training.jpg"
 
 「留学」の在留資格でも、アルバイトとして福祉施設で働くことができます。この場合、就労時間は1週間28時間以内と決められています。留学生が通っている学校にもいくつか種類があり、一般的な日本語学校、福祉専門学校附属の日本語学校、福祉専門学校などがあります。介護施設で働くことを希望する留学生がそれぞれの学校でどのような学習をしているかを大まかにまとめました。
 
-![留学生の勉強の流れ](images/s-2274x1686_v-frms_webp_d47661e5-d3c1-4a8a-a372-9b9109af4e24.png)
+![留学生の勉強の流れ](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-2274x1686_v-frms_webp_d47661e5-d3c1-4a8a-a372-9b9109af4e24.png)
 
 日本語学校のなかには「特定技能」の在留資格取得をめざしたコースを設けているところもあり、JLPTやJFT-Basic受験対策に加え、「介護技能評価試験」および「介護日本語評価試験」の受験対策を実施しています。合格すれば、卒業後、在留資格「特定技能」として就労することができます。
 
@@ -46,7 +46,7 @@ coverImage: "nursing_care_training.jpg"
 
 4)については、1)に合格していれば問題ありません。必要な試験に合格し、「介護士」としての認定を受けるための方法をまとめました。
 
-![](images/s-2209x1610_v-frms_webp_20edbec4-0da0-4ca8-92ce-b2f5041f0094.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-2209x1610_v-frms_webp_20edbec4-0da0-4ca8-92ce-b2f5041f0094.png)
 
 介護の職業訓練施設の講師はほぼフィリピン人であり、介護教育も「フィリピンの介護」に関する教育になります。こうした職業訓練施設で日本語教育を実施しているところもありますが、数はかなり少ないです。また、「介護日本語評価試験」および「介護技術評価試験」対策については、日本人日本語教師や「日本の介護」について指導できる日本人講師がいないと実施することはむずかしく、こちらもやはり数はかなり少ないと思われます。
 
@@ -56,7 +56,7 @@ coverImage: "nursing_care_training.jpg"
 
 「技能実習」の在留資格で入国する場合、入国前講習および入国後講習を受講することが義務づけられています。
 
-![](images/s-2400x1658_v-frms_webp_7efedf2c-4b95-4453-b53f-b801648d18b9.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-2400x1658_v-frms_webp_7efedf2c-4b95-4453-b53f-b801648d18b9.png)
 
 ### まとめ
 

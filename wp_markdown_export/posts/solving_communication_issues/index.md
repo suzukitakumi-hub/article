@@ -20,7 +20,7 @@ coverImage: "solving_communication_issues.jpg"
 
 特に、製造業、介護業界、建設業、サービス業などで外国人労働者が活躍しています。この増加傾向は、日本の深刻な労働力不足を反映しており、今後も継続すると予想されます。
 
-![](images/s-1078x689_v-fs_webp_808311eb-87b8-4887-a182-c5742082abc5.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1078x689_v-fs_webp_808311eb-87b8-4887-a182-c5742082abc5.png)
 
 出典：[https://www.mhlw.go.jp/content/11655000/001195787.pdf](https://www.mhlw.go.jp/content/11655000/001195787.pdf)
 

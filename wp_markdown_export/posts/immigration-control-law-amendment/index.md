@@ -48,7 +48,7 @@ coverImage: "images.jpg"
 
 企業としては、雇用する永住者や、将来永住を目指す従業員に対し、社会保険加入や納税の重要性を正しく指導することが、彼らのキャリアを守ることにつながります。
 
-あわせて読みたい [![在留資格の更新手続き完全ガイド](images/residence_status2.jpg) 在留資格の更新手続き完全ガイド｜必要書類・手順・注意点を徹底解説](https://gaikoku-jinzai.tcj-education.com/posts/residence_status2)
+あわせて読みたい [![在留資格の更新手続き完全ガイド](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/03/residence_status2.jpg) 在留資格の更新手続き完全ガイド｜必要書類・手順・注意点を徹底解説](https://gaikoku-jinzai.tcj-education.com/posts/residence_status2)
 
 ## 2023年入管法改正のポイント（既に施行済み）
 
@@ -76,7 +76,7 @@ coverImage: "images.jpg"
 
 転籍が可能になる新制度下では、外国人材に「長く働きたい」と思ってもらうための仕組み作りが不可欠です。日本人社員と同様の評価制度を適用する、昇給や昇格の基準を明確にするなど、将来のキャリアが見える化されている企業は、転籍リスクを下げることができます。
 
-あわせて読みたい [![外国人材のキャリアパス](images/career_path.jpg) 【完全ガイド】外国人材のキャリアパス｜成功へ導く企業の支援と定着戦略](https://gaikoku-jinzai.tcj-education.com/posts/career_path)
+あわせて読みたい [![外国人材のキャリアパス](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/03/career_path.jpg) 【完全ガイド】外国人材のキャリアパス｜成功へ導く企業の支援と定着戦略](https://gaikoku-jinzai.tcj-education.com/posts/career_path)
 
 ### 2\. 日本語教育・生活支援の強化
 
@@ -90,7 +90,7 @@ coverImage: "images.jpg"
 
 法改正の細部までを熟知し、適切な支援や行政手続きの代行ができる機関をパートナーに選ぶことが、コンプライアンス違反のリスクを回避する鍵となります。TCJは登録支援機関として、ビザ申請から生活支援までをワンストップでサポートしており、企業の負担を大幅に軽減します。
 
-あわせて読みたい [![採用コストを抑えて優秀な外国人材を確保](images/recruitment_cost.jpg) 採用コストを抑えて優秀な外国人材を確保！成功企業の工夫とは？](https://gaikoku-jinzai.tcj-education.com/posts/recruitment_cost)
+あわせて読みたい [![採用コストを抑えて優秀な外国人材を確保](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/03/recruitment_cost.jpg) 採用コストを抑えて優秀な外国人材を確保！成功企業の工夫とは？](https://gaikoku-jinzai.tcj-education.com/posts/recruitment_cost)
 
 ## 育成就労・特定技能の成功は「日本語教育」が鍵
 
@@ -102,7 +102,7 @@ coverImage: "images.jpg"
 
 単にJLPT（日本語能力試験）に合格させるだけでなく、**「現場で安全に作業できる力」「同僚と円滑に連携する力」**といった、実務直結の日本語力を育てることが、これからの企業には求められます。
 
-あわせて読みたい [![外国人採用の日本語能力ガイド](images/japanese_lang_skills.jpg) 【2025年最新版】外国人採用の日本語能力ガイド｜失敗しないレベルの見極め方から面接、育成まで](https://gaikoku-jinzai.tcj-education.com/posts/japanese_lang_skills)
+あわせて読みたい [![外国人採用の日本語能力ガイド](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/japanese_lang_skills.jpg) 【2025年最新版】外国人採用の日本語能力ガイド｜失敗しないレベルの見極め方から面接、育成まで](https://gaikoku-jinzai.tcj-education.com/posts/japanese_lang_skills)
 
 ### 定着率向上に直結するコミュニケーション教育の実践
 
@@ -110,7 +110,7 @@ TCJでは、独自の「Can-Doアセスメント」を用い、資格の有無�
 
 「言葉が通じる」ことは、外国人材自身の安心感につながり、それが離職防止（リテンション）の最強の施策となります。
 
-あわせて読みたい [![伝わる日本語で指示を出すための言い換え表現集](images/clear_japanese.jpg) 実践！「伝わる日本語」で指示を出すための言い換え表現集](https://gaikoku-jinzai.tcj-education.com/posts/clear_japanese)
+あわせて読みたい [![伝わる日本語で指示を出すための言い換え表現集](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/06/clear_japanese.jpg) 実践！「伝わる日本語」で指示を出すための言い換え表現集](https://gaikoku-jinzai.tcj-education.com/posts/clear_japanese)
 
 ## まとめ：法改正をチャンスに変え、選ばれる企業へ
 

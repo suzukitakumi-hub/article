@@ -23,9 +23,9 @@ coverImage: "vietnamese_personnel.jpg"
 
 日本におけるベトナム人労働者の数は年々増加しており、2023年10月時点で518,364人（外国人労働者全体の25.3％）を占め、最も多い国となっています。次いで、中国が397,918人（同19.4％）、フィリピンが226,846人（同11.1％）となっています。特に、技術職や製造業、介護業界におけるベトナム人労働者の需要は非常に高まっており、その多くがエンジニアや技術職として活躍しています。ベトナム人は、日本の製造業やIT分野において優れたスキルを発揮し、多くの企業から高く評価されており、彼らの技術力は日本の産業の発展に貢献しています。
 
-![](images/s-1280x960_v-fms_webp_1716f705-188e-4060-9a3d-d951d0633b7d.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1280x960_v-fms_webp_1716f705-188e-4060-9a3d-d951d0633b7d.png)
 
-![](images/s-1024x768_v-fs_webp_690763a0-299e-45db-bfac-79480d24e346.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_690763a0-299e-45db-bfac-79480d24e346.png)
 
 出典：[「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）｜厚生労働省](https://www.mhlw.go.jp/stf/newpage_37084.html)
 
@@ -33,9 +33,9 @@ coverImage: "vietnamese_personnel.jpg"
 
 ベトナム人労働者の在留資格は、主に「技術・人文知識・国際業務」や「技能実習生」が多く、特に製造業や介護業界では「技能実習生」として日本に滞在している人が大半を占めます。また、近年では「特定技能」資格を取得して働くベトナム人も増えています。業種別では、製造業が最も多く、特に自動車や電子機器の組立て、金属加工業などが中心です。介護業界にも多くのベトナム人労働者が従事しており、今後さらに需要が高まると予測されています。
 
-![ベトナム人在留資格](images/s-1024x768_v-fs_webp_9e535ad0-be08-4b3f-8521-754f79f8f6e9.png)
+![ベトナム人在留資格](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_9e535ad0-be08-4b3f-8521-754f79f8f6e9.png)
 
-![](images/s-1024x768_v-fs_webp_e9648ccc-aa2b-4be7-896a-3c836bf439a3.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_e9648ccc-aa2b-4be7-896a-3c836bf439a3.png)
 
 出典：[「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）｜厚生労働省](https://www.mhlw.go.jp/stf/newpage_37084.html)
 

@@ -30,7 +30,7 @@ coverImage: "parttimework_for_international_students.jpg"
 
 国・地域別では、中国が115,493人(前年度比11.2%増)と最多で、次いでネパール37,878人(56.2%増)、ベトナム36,339人(2.8%減)となっています。2022年3月以降の水際対策緩和や10月からの入国者数上限撤廃により、留学生の新規入国が進み、コロナ禍以降初めて留学生総数が増加に転じました。在学段階別では、日本語教育機関の留学生数が過去最多を記録し、出身地域別では概ねすべての地域で大幅な増加が見られました。
 
-![](images/s-1024x768_v-fs_webp_cddb260b-1457-4eac-8418-16eef3c715c5-768x576.png) ![](images/s-563x803_v-fs_webp_6144cda6-9d8c-4422-9dd2-13c1b79d8b21-538x768.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/s-1024x768_v-fs_webp_cddb260b-1457-4eac-8418-16eef3c715c5-768x576.png) ![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/s-563x803_v-fs_webp_6144cda6-9d8c-4422-9dd2-13c1b79d8b21-538x768.png)
 
 参考：[https://www.mext.go.jp/a\_menu/koutou/ryugaku/1412692\_00003.htm](https://www.mext.go.jp/a_menu/koutou/ryugaku/1412692_00003.htm)
 
@@ -42,7 +42,7 @@ coverImage: "parttimework_for_international_students.jpg"
 
 留学生のアルバイト従事率は65.2%に上ります。職種別では、「飲食業」が39.2%と最も多く、次いで「営業・販売(コンビニ等)」が28.4%、「工場での組立作業」が6.0%となっています。
 
-![](images/s-1024x768_v-fs_webp_8561ae8a-7628-4b82-8ca4-46c313403e70-768x576.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/s-1024x768_v-fs_webp_8561ae8a-7628-4b82-8ca4-46c313403e70-768x576.png)
 
 出典：[https://www.studyinjapan.go.jp/ja/\_mt/2024/10/Seikatsu2023.pdf](https://www.studyinjapan.go.jp/ja/_mt/2024/10/Seikatsu2023.pdf)
 
@@ -50,7 +50,7 @@ coverImage: "parttimework_for_international_students.jpg"
 
 外国人留学生の時給は、日本人アルバイト同様、最低賃金を遵守する必要があります。調査によると、「1,000円以上1,200円未満」が50.2%と最も多く、次いで「1,200円以上1,400円未満」が20.5%となっています。
 
-![](images/s-1024x768_v-fs_webp_d5e8ee83-16a4-464a-98b8-ae7d22261a13-768x576.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/s-1024x768_v-fs_webp_d5e8ee83-16a4-464a-98b8-ae7d22261a13-768x576.png)
 
 出典：[https://www.studyinjapan.go.jp/ja/\_mt/2024/10/Seikatsu2023.pdf](https://www.studyinjapan.go.jp/ja/_mt/2024/10/Seikatsu2023.pdf)
 
@@ -58,7 +58,7 @@ coverImage: "parttimework_for_international_students.jpg"
 
 日本語学校では主に年4回の入学時期があり、そのタイミングで仕事を探す学生が増加します。2024年4月下旬に実施したTCJ独自の留学生向けアルバイトの意識調査では、アルバイト中の学生が30.3%、アルバイトを探している、またはこれから探す予定の学生が合わせて47.5%と、多くの学生がアルバイトを希望していることがわかりました。
 
-![](images/s-1024x768_v-fs_webp_c13762f3-e790-4f1a-83de-c7203bf752b2-768x576.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/s-1024x768_v-fs_webp_c13762f3-e790-4f1a-83de-c7203bf752b2-768x576.png)
 
 出典：TCJ留学生向けアルバイトの意識調査(調査期間/2024年4月23日～30日、回答数/267名)
 
@@ -66,7 +66,7 @@ coverImage: "parttimework_for_international_students.jpg"
 
 同調査によると、学生が希望する職種はコンビニスタッフと飲食店スタッフが大半を占めています。また、ホテルや英会話講師・翻訳といった語学を活かした職種も人気があります。一方で、具体的な職種を決めていない、どんな職種でもよいという学生も一定数存在します。
 
-![](images/s-1024x768_v-fs_webp_c2b5759c-0d10-42a5-b219-42bb0780c0e6-768x576.png)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2024/12/s-1024x768_v-fs_webp_c2b5759c-0d10-42a5-b219-42bb0780c0e6-768x576.png)
 
 出典：TCJ留学生向けアルバイトの意識調査(調査期間/2024年4月23日～30日、回答数/267名)
 

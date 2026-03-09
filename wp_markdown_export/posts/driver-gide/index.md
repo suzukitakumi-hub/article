@@ -126,7 +126,7 @@ JLPT N4（基本的な日本語）があれば特定技能の要件は満たせ�
 
 また、外免切替の学科試験対策として、独特な言い回し（例：「徐行しなければならない」と「徐行した方がよい」の違いなど）を重点的に解説するカリキュラムも用意しており、合格率アップに貢献しています。
 
-あわせて読みたい [![外国人介護士の適性を見抜く質問集｜日本語力より大切な5つの資質とは？](images/nursing_care1.jpg) 外国人介護士の適性を見抜く質問集｜日本語力より大切な5つの資質とは？](https://gaikoku-jinzai.tcj-education.com/posts/nursing_care1)
+あわせて読みたい [![外国人介護士の適性を見抜く質問集｜日本語力より大切な5つの資質とは？](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2025/06/nursing_care1.jpg) 外国人介護士の適性を見抜く質問集｜日本語力より大切な5つの資質とは？](https://gaikoku-jinzai.tcj-education.com/posts/nursing_care1)
 
 ## 採用から配属までのロードマップ
 

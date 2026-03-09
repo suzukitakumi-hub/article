@@ -41,7 +41,7 @@ coverImage: "onboarding.jpg"
 
 厚生労働省「外国人雇用状況」（2024年10月公表）によると、日本で働く外国人労働者数は約230万人。過去最高を更新し、前年比約12%増という急成長を見せています。
 
-![](images/foreign_workers_stats_v2-768x768.jpg)
+![](https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2026/01/foreign_workers_stats_v2-768x768.jpg)
 
  
 

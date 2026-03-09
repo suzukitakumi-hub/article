@@ -13,7 +13,7 @@ JLPTの資格や練習してきた自己紹介だけでは、その人が本当�
 
 ## なぜ「普通の面接」ではダメなのか？
 
-![](images/s-1408x768_v-fms_webp_816c6ec4-1b8e-41ee-ba7a-8bd28a3da056.jpg)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1408x768_v-fms_webp_816c6ec4-1b8e-41ee-ba7a-8bd28a3da056.jpg)
 
 ### 練習された自己紹介と、本当の実力
 
@@ -35,7 +35,7 @@ JLPTの資格や練習してきた自己紹介だけでは、その人が本当�
 
 ### **介護職の「適性」とは？面接で見抜くべき5つの資質**
 
-![](images/s-1408x768_v-fms_webp_9d0126b4-f317-4d52-9195-38a667e363ac.jpg)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1408x768_v-fms_webp_9d0126b4-f317-4d52-9195-38a667e363ac.jpg)
 
 外国人介護士の採用で最も重要なのは、表面的な日本語能力の奥にある、介護職としての「適性」を見抜くことです。
 
@@ -119,7 +119,7 @@ JLPTの資格や練習してきた自己紹介だけでは、その人が本当�
 
 ### **面接官が注意すべきこと・聞いてはいけないNG質問**
 
-![](images/s-1408x768_v-fms_webp_2a182948-bf85-4dde-9edd-4090b4e2dc03.jpg)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1408x768_v-fms_webp_2a182948-bf85-4dde-9edd-4090b4e2dc03.jpg)
 
 これまで、候補者の本質を見抜くための戦略的な質問をご紹介してきました。しかし、どんなに良い質問を用意しても、面接官の姿勢や、たった一つの不適切な質問が、築き上げた信頼関係を壊してしまうことがあります。
 

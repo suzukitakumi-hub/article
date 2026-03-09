@@ -18,7 +18,7 @@ coverImage: "specified_skilled_worker.jpg"
 
 在留資格別の割合を見ると、「特定技能」の増加が顕著です。2024年6月末の統計では、特定技能1号の在留外国人人数は251,594人と、外国人労働者数の増加を牽引しています。
 
-![外国人労働者推移](images/s-948x621_688477e5-0762-4586-a96c-73d27dd5d3c2.gif)
+![外国人労働者推移](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-948x621_688477e5-0762-4586-a96c-73d27dd5d3c2.gif)
 
 [「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）｜厚生労働省](https://www.mhlw.go.jp/stf/newpage_37084.html)
 
@@ -26,7 +26,7 @@ coverImage: "specified_skilled_worker.jpg"
 
 国籍別割合を見ると、ベトナムが最多で126,740人と全体の約50%を占めています。次いでインドネシアが44,298人、フィリピンが25,303人と続きます。ミャンマー（19,058人）と中国（15,660人）も上位に入っています。カンボジア、ネパール、タイがそれぞれ5,000人前後で続き、その他の国々が4,517人となっています。東南アジアと東アジアの国々が大半を占めており、特にベトナムの割合が突出していますが、近年はインドネシアやミャンマーからの受け入れが増加傾向にあります。
 
-![国籍別内訳](images/s-1024x768_v-fs_webp_7569d9b8-7613-4cba-bf54-14b5f194cfd4.png)
+![国籍別内訳](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_7569d9b8-7613-4cba-bf54-14b5f194cfd4.png)
 
 出典：[特定技能在留外国人数の公表等 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00215.html)
 
@@ -34,7 +34,7 @@ coverImage: "specified_skilled_worker.jpg"
 
 産業分野別割合を見ると、飲食料品製造業が最多で70,202人と全体の約28%を占めています。次いで素形材・産業機械・電気電子情報関連製造業が44,044人（約18%）、介護が36,719人（約15%）と続きます。建設業は31,853人（約13%）、農業が27,786人（約11%）、外食業が20,308人（約8%）となっています。その他の分野が20,682人（約8%）を占めており、飲食料品製造業と製造業関連が特に高い割合を示しています。この分布は、各産業分野における人手不足の深刻さと外国人材への需要を反映しています。
 
-![産業別グラフ](images/s-1024x768_v-fs_webp_6f159c34-6f02-488e-a7a3-66c764fdff2a.png)
+![産業別グラフ](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-1024x768_v-fs_webp_6f159c34-6f02-488e-a7a3-66c764fdff2a.png)
 
 出典：[特定技能在留外国人数の公表等 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00215.html)
 
@@ -235,7 +235,7 @@ coverImage: "specified_skilled_worker.jpg"
 
 特定技能1号と特定技能2号には、以下のような主要な違いがあります。
 
-![](images/s-805x572_v-fs_webp_d3e11308-fa64-4eb0-9862-4a3ca9857336.png)
+![](https://storage.googleapis.com/studio-cms-assets/projects/BRO3vVK4WD/s-805x572_v-fs_webp_d3e11308-fa64-4eb0-9862-4a3ca9857336.png)
 
 特定技能1号は、比較的短期の在留を想定した資格です。通算5年までの在留が認められ、基本的な業務遂行に必要な知識や経験が求められます。一方、特定技能2号は、より長期的な在留を前提としており、在留期間の更新に上限がなく、家族の帯同も可能です。技能面では、自己判断で専門的・技術的な業務を遂行できる、または監督者として業務を統括できるレベルの熟練した技能が要求されます。
 
