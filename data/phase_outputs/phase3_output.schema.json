@@ -1,0 +1,24 @@
+{
+    "_comment": "Phase3 ゲートJSON — seo-phase3-strategy Skill終了時に出力する",
+    "_schema_version": "1.0",
+    "persona": {
+        "primary": {},
+        "decision_maker": null
+    },
+    "structure": [],
+    "usp_plan": [],
+    "primary_info_plan": {
+        "internal_data": [],
+        "expert_knowledge": [],
+        "public_data": [],
+        "case_study": []
+    },
+    "target_chars": 0,
+    "internal_link_plan": {
+        "main_cluster": "",
+        "candidates": [],
+        "final_links": [],
+        "placement_sections": []
+    },
+    "claim_evidence_map": []
+}

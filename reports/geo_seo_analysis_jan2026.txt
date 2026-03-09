@@ -1,0 +1,40 @@
+SEO Analysis Report (Jan 2026)
+==============================
+
+## 🚀 High Potential Queries (High Imp, Low Rank)
+  Criteria: >50 Impressions, Rank >10.0
+
+  - [外国人 日本語レベル 見極め] Imp: 120.0, Rank: 42.5
+  - [外国人 オンボーディング] Imp: 88.0, Rank: 29.1
+  - [フィリピン人 介護士] Imp: 64.0, Rank: 32.2
+  - [フィリピン 介護 人材] Imp: 62.0, Rank: 22.7
+  - [優秀 外国人 採用] Imp: 59.0, Rank: 14.8
+  - [外国人 求人票 書き方] Imp: 58.0, Rank: 17.9
+
+## 🏆 Top Pages by Clicks
+  - time_to_learn_japanese: 1 Clicks, 514 Imp
+  - clear_japanese: 0 Clicks, 343 Imp
+  - japanese_lang_skills: 0 Clicks, 325 Imp
+  - work_injury_insurance: 0 Clicks, 229 Imp
+  - parttimework_for_international_students: 0 Clicks, 129 Imp
+
+## ⚠️ Low Quality Articles with Traffic
+  Checking articles flagged in quality report against GSC data...
+
+  - [Warning] nursing_care_training
+    Issues: No H2 Headings
+    Performance: 0 Clicks, 110 Imp, Rank 15.0
+
+## 🗑️ Dead Weight Candidates (Low Quality & No GSC Data)
+  These files exist locally, have quality issues, and appear in 0 GSC rows (Jan).
+
+  - business_manners2 (Thin Content (<1000 chars); No H2 Headings)
+  - communication (Thin Content (<1000 chars); No H2 Headings)
+  - mhcryih6 (Thin Content (<1000 chars); No H2 Headings)
+  - second_language (Thin Content (<1000 chars); No H2 Headings)
+  - sem08 (Thin Content (<1000 chars); No H2 Headings)
+  - sem10 (Thin Content (<1000 chars); No H2 Headings)
+  - tcj_recruitment (Thin Content (<1000 chars))
+  - workshop_ideas (No H2 Headings)
+  - business_etiquette (No H2 Headings)
+  - interview (No H2 Headings)

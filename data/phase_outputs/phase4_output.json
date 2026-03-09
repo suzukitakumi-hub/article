@@ -1,0 +1,56 @@
+{
+  "phase": 4,
+  "target_keyword": "外国人 志望動機 見抜く",
+  "html_path": "articles/japanese_lang_skills_rewrite.html",
+  "title": "外国人採用面接｜志望動機の見抜き方と本音を引き出す8つの質問",
+  "title_char_count": 30,
+  "meta_description": "外国人採用の面接で志望動機を正確に見抜く方法を解説。「日本が好き」という回答の裏に潜む3つの本音パターンと、37年の教育実績から導いた深掘り質問フレームワーク、NG質問例を実務視点で体系化しました。",
+  "plaintext_char_count": 7438,
+  "target_char_count": 6500,
+  "char_count_check": "PASS（7438文字 / 目標6500文字 ±20% = 5200〜7800文字 → 範囲内）",
+  "self_check_passed": true,
+  "faq_count": 6,
+  "cta_count": 3,
+  "structure_h2_count": 7,
+  "internal_links": [
+    {
+      "url": "https://gaikoku-jinzai.tcj-education.com/posts/resume",
+      "title": "特定技能編｜外国人材採用のコツを知ろう 履歴書・面接で見るべきポイントとは",
+      "cluster": "C2",
+      "exception": true,
+      "exception_reason": "H2-3内で特定技能採用面接として直接言及しているため隣接クラスター例外適用"
+    },
+    {
+      "url": "https://gaikoku-jinzai.tcj-education.com/posts/points_to_note",
+      "title": "外国人採用の注意点8つ｜法令・面接・受け入れ・定着の失敗を防ぐ実務ガイド",
+      "cluster": "C1",
+      "exception": false
+    },
+    {
+      "url": "https://gaikoku-jinzai.tcj-education.com/posts/risk_managemen",
+      "title": "外国人採用で失敗しないためのリスク管理完全ガイド｜担当者が今すぐやるべき事とは",
+      "cluster": "C1",
+      "exception": false
+    }
+  ],
+  "cta": {
+    "cta_a": {
+      "type": "button",
+      "url": "https://gaikoku-jinzai.tcj-education.com/download/material/recruitment04",
+      "wp": "WP④"
+    },
+    "cta_b": {
+      "type": "text-link",
+      "url": "https://gaikoku-jinzai.tcj-education.com/download/material/recruitment02",
+      "wp": "WP②"
+    },
+    "cta_c": {
+      "type": "button",
+      "url": "https://gaikoku-jinzai.tcj-education.com/contact",
+      "wp": "contact"
+    }
+  },
+  "validate_article_result": "PASS",
+  "validate_tone_result": "PASS",
+  "created_at": "2026-03-03"
+}

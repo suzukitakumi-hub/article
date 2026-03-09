@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.smilevisa.jp)",
+      "WebFetch(domain:www.glory-of-bridge.com)",
+      "WebFetch(domain:jfbfe.or.jp)",
+      "WebFetch(domain:column.jfbfe.or.jp)",
+      "Bash(PYTHONIOENCODING=utf-8 python3:*)",
+      "Read(//c/Users/suzuki.takumi/.claude/projects/c--Users-suzuki-takumi-Desktop-AI------TCJ/memory/**)",
+      "WebFetch(domain:pm-lawyer.com)",
+      "WebFetch(domain:global-saponet.mgl.mynavi.jp)",
+      "WebFetch(domain:directsourcing-lab.com)",
+      "WebFetch(domain:www.dodadsj.com)",
+      "WebFetch(domain:japannesia.com)",
+      "Read(//c/Users/suzuki.takumi/.claude/**)",
+      "Bash(pip3 install requests)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\suzuki.takumi\\Desktop\\AI\\記事作成_TCJ\\scripts"
+    ]
+  }
+}

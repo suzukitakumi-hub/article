@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "seranking-internal": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\suzuki.takumi\\Desktop\\AI\\記事作成_TCJ\\mcp_servers\\seranking\\server.py"
+      ]
+    }
+  }
+}

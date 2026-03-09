@@ -1,0 +1,11 @@
+============================================================
+TCJ SEO記事バリデーション v3.0.0
+============================================================
+Traceback (most recent call last):
+  File "C:\Users\suzuki.takumi\Desktop\AI\記事作成_TCJ\tcj-seo-project-v3\tcj-seo-project-v3\.agent\skills\seo-phase5-validation\scripts\validate_article.py", line 429, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\suzuki.takumi\Desktop\AI\記事作成_TCJ\tcj-seo-project-v3\tcj-seo-project-v3\.agent\skills\seo-phase5-validation\scripts\validate_article.py", line 389, in main
+    print(f"\n\U0001f4c4 入力ファイル: {filepath}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp932' codec can't encode character '\U0001f4c4' in position 2: illegal multibyte sequence

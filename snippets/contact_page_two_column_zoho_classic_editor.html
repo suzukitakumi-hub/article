@@ -1,0 +1,180 @@
+<style>
+  :root {
+    --tcj-blue: #143b9f;
+    --tcj-blue-deep: #0d2a72;
+    --tcj-bg: #f3f8ff;
+    --tcj-text: #1d2a4a;
+    --tcj-muted: #506082;
+    --tcj-radius: 18px;
+    --tcj-shadow: 0 12px 30px rgba(20, 59, 159, 0.12);
+  }
+
+  .tcj-contact-wrap {
+    max-width: 1200px;
+    margin: 32px auto;
+    padding: 0 16px;
+    color: var(--tcj-text);
+    font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  }
+
+  .tcj-contact-grid {
+    display: grid;
+    grid-template-columns: 1.02fr 1fr;
+    gap: 24px;
+    align-items: start;
+  }
+
+  .tcj-contact-left,
+  .tcj-contact-right {
+    background: #fff;
+    border-radius: var(--tcj-radius);
+    box-shadow: var(--tcj-shadow);
+    overflow: hidden;
+  }
+
+  .tcj-contact-left-inner {
+    padding: 28px 28px 24px;
+  }
+
+  .tcj-contact-kicker {
+    margin: 0 0 10px;
+    color: var(--tcj-blue);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    font-size: 12px;
+  }
+
+  .tcj-contact-title {
+    margin: 0 0 14px;
+    font-size: 32px;
+    line-height: 1.35;
+    color: var(--tcj-blue-deep);
+    font-weight: 800;
+  }
+
+  .tcj-contact-lead {
+    margin: 0 0 16px;
+    line-height: 1.85;
+    color: var(--tcj-muted);
+    font-size: 15px;
+  }
+
+  .tcj-contact-note {
+    margin: 0;
+    padding: 12px 14px;
+    background: var(--tcj-bg);
+    border-left: 4px solid var(--tcj-blue);
+    border-radius: 8px;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--tcj-text);
+  }
+
+  .tcj-contact-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-top: 1px solid #edf1fb;
+  }
+
+  .tcj-contact-right-head {
+    background: linear-gradient(120deg, var(--tcj-blue) 0%, #2b56ca 100%);
+    color: #fff;
+    padding: 14px 18px;
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+  .tcj-contact-right-body {
+    padding: 14px;
+    background: #fff;
+  }
+
+  .tcj-contact-iframe {
+    width: 100%;
+    min-height: 1300px;
+    border: 1px solid #e7ebf5;
+    border-radius: 12px;
+    background: #fff;
+  }
+
+  .tcj-contact-fallback {
+    margin-top: 10px;
+    font-size: 13px;
+    color: var(--tcj-muted);
+  }
+
+  .tcj-contact-fallback a {
+    color: var(--tcj-blue);
+    text-decoration: underline;
+  }
+
+  @media (max-width: 960px) {
+    .tcj-contact-grid {
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+
+    .tcj-contact-left-inner {
+      padding: 20px 18px 18px;
+    }
+
+    .tcj-contact-title {
+      font-size: 25px;
+    }
+
+    .tcj-contact-iframe {
+      min-height: 1200px;
+    }
+  }
+</style>
+
+<section class="tcj-contact-wrap" aria-label="お問い合わせフォーム">
+  <div class="tcj-contact-grid">
+    <article class="tcj-contact-left">
+      <div class="tcj-contact-left-inner">
+        <p class="tcj-contact-kicker">CONTACT</p>
+        <h1 class="tcj-contact-title">外国人材採用に関する<br>お問い合わせ</h1>
+        <p class="tcj-contact-lead">
+          在留資格、採用設計、教育・定着まで、現場課題に合わせてご提案します。<br>
+          下記フォームより必要事項をご入力ください。担当者よりご連絡いたします。
+        </p>
+        <p class="tcj-contact-note">
+          営業目的のお問い合わせはご遠慮ください。<br>
+          送信後は確認ページ（Thanksページ）へ自動遷移します。
+        </p>
+      </div>
+
+      <img
+        class="tcj-contact-image"
+        src="https://gaikoku-jinzai.tcj-education.com/wp-content/uploads/2026/02/3.10_横長-1.jpg"
+        alt="お問い合わせイメージ"
+      >
+    </article>
+
+    <aside class="tcj-contact-right">
+      <div class="tcj-contact-right-head">お問い合わせフォーム</div>
+      <div class="tcj-contact-right-body">
+        <iframe
+          class="tcj-contact-iframe"
+          title="TCJ お問い合わせフォーム（Zoho）"
+          src="https://forms.zohopublic.com/info420tcjni1/form/Untitled21/formperma/9DD5diEqo5PrBlahQQ0hkcwtfQuRE5g6U16E9P6pc1w"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          loading="lazy"
+        >
+          読み込んでいます…
+        </iframe>
+
+        <p class="tcj-contact-fallback">
+          フォームが表示されない場合は、
+          <a href="https://forms.zohopublic.com/info420tcjni1/form/Untitled21/formperma/9DD5diEqo5PrBlahQQ0hkcwtfQuRE5g6U16E9P6pc1w" target="_blank" rel="noopener noreferrer">
+            こちら
+          </a>
+          から直接入力してください。
+        </p>
+      </div>
+    </aside>
+  </div>
+</section>

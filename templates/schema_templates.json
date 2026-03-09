@@ -1,0 +1,248 @@
+{
+  "organization": {
+    "description": "TCJグローバルの組織情報スキーマ。全ページの<head>内に実装してください。",
+    "priority": "HIGH",
+    "implementation": "全ページ共通",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "https://gaikoku-jinzai.tcj-education.com/#organization",
+      "name": "TCJグローバル",
+      "alternateName": "TCJ外国人材Times",
+      "url": "https://tcj-education.com/ja/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://gaikoku-jinzai.tcj-education.com/wp-content/themes/tcj-recruitment/assets/img/site-logo.svg",
+        "width": 600,
+        "height": 60,
+        "caption": "TCJグローバル"
+      },
+      "description": "創業37年、外国人材の採用支援・日本語教育を専門とする総合教育企業",
+      "foundingDate": "1987",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+81-3-XXXX-XXXX",
+        "url": "https://tcj-education.com/ja/foreign-recruitment/",
+        "availableLanguage": ["Japanese", "English"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/tcj.jp/",
+        "https://twitter.com/tcj_jp"
+      ]
+    }
+  },
+  "blogPosting": {
+    "description": "ブログ記事用スキーマ。Articleの代わりにBlogPostingを使用。Yoast SEOで自動生成される場合は、publisherとarticleSectionを追加してください。",
+    "priority": "HIGH",
+    "implementation": "記事ページ（Yoast SEO設定で変更）",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "@id": "{{ARTICLE_URL}}#article",
+      "headline": "{{ARTICLE_TITLE}}",
+      "description": "{{ARTICLE_DESCRIPTION}}",
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{FEATURED_IMAGE_URL}}",
+        "width": "{{IMAGE_WIDTH}}",
+        "height": "{{IMAGE_HEIGHT}}"
+      },
+      "datePublished": "{{PUBLISH_DATE_ISO8601}}",
+      "dateModified": "{{MODIFIED_DATE_ISO8601}}",
+      "author": {
+        "@type": "Person",
+        "name": "{{AUTHOR_NAME}}",
+        "url": "{{AUTHOR_URL}}"
+      },
+      "publisher": {
+        "@id": "https://gaikoku-jinzai.tcj-education.com/#organization"
+      },
+      "articleSection": "{{CATEGORY_NAME}}",
+      "articleBody": "{{ARTICLE_EXCERPT}}",
+      "wordCount": "{{ACTUAL_WORD_COUNT}}",
+      "inLanguage": "ja",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ARTICLE_URL}}"
+      }
+    }
+  },
+  "videoObject": {
+    "description": "動画コンテンツ用スキーマ。YouTube埋め込みやセミナー動画がある記事に追加してください。",
+    "priority": "MEDIUM",
+    "implementation": "動画を含む記事ページ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "{{VIDEO_TITLE}}",
+      "description": "{{VIDEO_DESCRIPTION}}",
+      "thumbnailUrl": "{{VIDEO_THUMBNAIL_URL}}",
+      "uploadDate": "{{VIDEO_UPLOAD_DATE_ISO8601}}",
+      "duration": "{{VIDEO_DURATION_ISO8601}}",
+      "contentUrl": "{{VIDEO_URL}}",
+      "embedUrl": "{{VIDEO_EMBED_URL}}",
+      "publisher": {
+        "@id": "https://gaikoku-jinzai.tcj-education.com/#organization"
+      },
+      "inLanguage": "ja"
+    }
+  },
+  "course": {
+    "description": "研修プログラム・コース紹介ページ用スキーマ。TCJの日本語研修プログラムページに実装してください。",
+    "priority": "LOW",
+    "implementation": "研修プログラム紹介ページ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "{{COURSE_NAME}}",
+      "description": "{{COURSE_DESCRIPTION}}",
+      "provider": {
+        "@id": "https://gaikoku-jinzai.tcj-education.com/#organization"
+      },
+      "courseMode": ["online", "onsite"],
+      "inLanguage": "ja",
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "blended",
+        "courseWorkload": "{{COURSE_HOURS}}H"
+      },
+      "educationalLevel": "{{LEVEL}}",
+      "about": {
+        "@type": "Thing",
+        "name": "日本語教育"
+      }
+    }
+  },
+  "howToAvoid": {
+    "description": "⚠️ 使用禁止 - HowToスキーマは2023年9月にリッチリザルト廃止済み。通常のHTMLで記述してください。",
+    "priority": "FORBIDDEN",
+    "implementation": "使用しない",
+    "schema": null
+  },
+  "faqPageRestricted": {
+    "description": "⚠️ 制限付き - FAQPageスキーマは2023年8月以降、政府機関と医療機関のみ使用可能。TCJは対象外のため使用不可。Q&A形式は通常のHTMLで記述してください。",
+    "priority": "RESTRICTED",
+    "implementation": "使用しない（ポリシー違反）",
+    "schema": null,
+    "alternativeSolution": "記事内に自然な形でQ&A形式を含める（スキーマなし）。見出しタグ（<h3>）で質問を記述し、段落タグ（<p>）で回答を記述する。"
+  },
+  "breadcrumbList": {
+    "description": "パンくずリストスキーマ。Yoast SEOで自動生成されているため、追加実装不要。",
+    "priority": "LOW",
+    "implementation": "Yoast SEOで自動実装済み",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://gaikoku-jinzai.tcj-education.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{CATEGORY_NAME}}",
+          "item": "{{CATEGORY_URL}}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ARTICLE_TITLE}}",
+          "item": "{{ARTICLE_URL}}"
+        }
+      ]
+    }
+  },
+  "webSite": {
+    "description": "Webサイト全体のスキーマ。Yoast SEOで自動生成されているが、descriptionが空白なので修正必要。",
+    "priority": "HIGH",
+    "implementation": "Yoast SEO設定で修正",
+    "howToFix": "WordPress管理画面 → SEO → 検索の外観 → 一般 → サイト説明を入力",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": "https://gaikoku-jinzai.tcj-education.com/#website",
+      "url": "https://gaikoku-jinzai.tcj-education.com/",
+      "name": "TCJ外国人材Times",
+      "description": "TCJ外国人材timesは、外国人材の採用を担当されている方、これから外国人材を採用しようと検討している担当者の方に向けて、外国人材採用時のポイントや在留資格、採用後の人材育成や定着に関する内容をお届けします。",
+      "publisher": {
+        "@id": "https://gaikoku-jinzai.tcj-education.com/#organization"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://gaikoku-jinzai.tcj-education.com/?s={search_term_string}"
+          },
+          "query-input": {
+            "@type": "PropertyValueSpecification",
+            "valueRequired": true,
+            "valueName": "search_term_string"
+          }
+        }
+      ],
+      "inLanguage": "ja"
+    }
+  },
+  "implementationGuide": {
+    "step1_organization": {
+      "title": "Organizationスキーマの追加",
+      "priority": "即時実装",
+      "method": "WordPressテーマのheader.phpまたはYoast SEO設定で追加",
+      "code": "上記organizationスキーマをコピーして<head>内に追加",
+      "verification": "https://search.google.com/test/rich-results でテスト"
+    },
+    "step2_website_description": {
+      "title": "WebSiteのdescription修正",
+      "priority": "即時実装",
+      "method": "WordPress管理画面 → SEO → 検索の外観 → 一般",
+      "action": "サイト説明に「TCJ外国人材timesは、外国人材の採用を担当されている方、これから外国人材を採用しようと検討している担当者の方に向けて、外国人材採用時のポイントや在留資格、採用後の人材育成や定着に関する内容をお届けします。」を入力"
+    },
+    "step3_blogPosting": {
+      "title": "Article → BlogPostingへ変更",
+      "priority": "中期実装",
+      "method": "WordPress管理画面 → SEO → 検索の外観 → コンテンツタイプ",
+      "action": "投稿のスキーマタイプを「BlogPosting」に変更"
+    },
+    "step4_author_improvement": {
+      "title": "著者情報の改善",
+      "priority": "中期実装",
+      "method": "WordPress管理画面 → ユーザー → プロフィール",
+      "action": "表示名を「TCJ編集部」などに変更"
+    },
+    "step5_wordCount_fix": {
+      "title": "wordCount問題の修正",
+      "priority": "即時実装",
+      "method": "Yoast SEOプラグインの更新または設定確認",
+      "action": "Yoast SEOを最新版に更新。問題が続く場合はサポートに問い合わせ"
+    }
+  },
+  "validationTools": {
+    "googleRichResultsTest": {
+      "url": "https://search.google.com/test/rich-results",
+      "usage": "各ページURLを入力してリッチリザルト対応状況を確認"
+    },
+    "schemaMarkupValidator": {
+      "url": "https://validator.schema.org/",
+      "usage": "JSON-LDコードを直接貼り付けて構文エラーを確認"
+    },
+    "googleSearchConsole": {
+      "url": "https://search.google.com/search-console",
+      "usage": "「拡張」セクションでリッチリザルトのエラー・警告を確認"
+    },
+    "yoastSeoSchemaInspector": {
+      "url": "WordPress管理画面内",
+      "usage": "記事編集画面のYoast SEOメタボックスでスキーマ出力を確認"
+    }
+  }
+}

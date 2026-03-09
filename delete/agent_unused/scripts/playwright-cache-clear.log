@@ -1,0 +1,3 @@
+[2026-01-26 12:20:56] ERROR: Failed to clear cache - Access to the path 'C:\Users\suzuki.takumi\AppData\Local\ms-playwright-go\1.50.1\node.exe' is denied.
+[2026-01-26 17:07:12] SUCCESS: Playwright cache cleared from C:\Users\suzuki.takumi\AppData\Local\ms-playwright-go
+[2026-01-26 23:47:24] SUCCESS: Playwright cache cleared from C:\Users\suzuki.takumi\AppData\Local\ms-playwright-go

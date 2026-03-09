@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(powershell -Command \"cd $env:TEMP; if \\(Test-Path claude-seo-manual\\) { Remove-Item -Recurse -Force claude-seo-manual }; git clone --depth 1 https://github.com/AgriciDaniel/claude-seo.git claude-seo-manual\")",
+      "Bash(powershell -Command:*)",
+      "Bash(powershell:*)",
+      "Bash(pip install:*)",
+      "mcp__claude_ai_Ahrefs__subscription-info-limits-and-usage",
+      "Skill(seo)",
+      "WebSearch",
+      "WebFetch(domain:gaikoku-jinzai.tcj-education.com)",
+      "Bash(curl:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "WebFetch(domain:www.classnk.or.jp)",
+      "WebFetch(domain:meikoglobal.jp)",
+      "WebFetch(domain:foreign-driver.com)",
+      "WebFetch(domain:driver-visa.com)",
+      "WebFetch(domain:kosaido-global.jp)",
+      "WebFetch(domain:blog.sian-office.jp)",
+      "WebFetch(domain:corp-japanjobschool.com)",
+      "WebFetch(domain:www.riskeyes.jp)",
+      "WebFetch(domain:www.global.staff-manzoku.co.jp)",
+      "WebFetch(domain:ecc-japanwork.com)",
+      "WebFetch(domain:www.risefor-business.com)",
+      "WebFetch(domain:jobmenta.yourator.co)",
+      "Bash(\"c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/data/phase_outputs/phase3_output.json\":*)",
+      "Bash(head -5 grep -r \"日本語能力\\\\|日本語力\\\\|JLPT\\\\|japanese_lang\" \"c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/data/phase_outputs/phase1_output.json\")",
+      "Bash(xargs grep -l \"japanese_lang\\\\|日本語能力.*外国人\\\\|外国人.*日本語能力\")",
+      "Read(//c/Users/suzuki.takumi/Desktop/AI/Zoho/Design/**)",
+      "Read(//c/Users/suzuki.takumi/Desktop/AI/Zoho/Design 2>/dev/**)",
+      "Read(//c/Users/suzuki.takumi/.gemini/antigravity/**)",
+      "mcp__seranking-internal__get_keyword_rankings",
+      "mcp__seranking-internal__get_competitor_keywords",
+      "mcp__google-analytics__get_ga4_data",
+      "Bash(playwright install chromium)",
+      "Bash(python -c \":*)",
+      "Bash(git -C \"c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/\" log --oneline --all)"
+    ]
+  }
+}

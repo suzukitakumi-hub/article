@@ -1,0 +1,248 @@
+{
+  "persona": {
+    "primary": {
+      "role": "人事・採用担当（中堅〜大手、外国人採用経験はあるがネパール採用は初期段階）",
+      "industry_size": "外食・介護・製造・物流を中心とした従業員100〜1000名規模",
+      "issues": [
+        "ネパール人材の強みとリスクを稟議資料として説明しきれない",
+        "採用後の現場運用で宗教配慮や指示伝達ミスが起きる不安がある",
+        "短期離職を避ける面接設計と初期受け入れ手順を整えたい"
+      ],
+      "search_motivation": "『ネパール 人材 特徴』で情報を集め、今四半期の採用枠に組み込めるか判断したい",
+      "info_behavior": "Google検索→比較記事確認→社内共有資料化→上長稟議",
+      "priority": [
+        "採用可否判断",
+        "受け入れ時の注意点",
+        "実行手順",
+        "問い合わせ導線"
+      ],
+      "emotion": {
+        "positive": "採用母集団を拡大できる期待",
+        "negative": "文化差・離職・法令対応の見落としリスクへの不安"
+      },
+      "cta_goal": "資料を入手し、社内提案用に制度整理と面接設計を進める"
+    },
+    "decision_maker": {
+      "role": "事業責任者・役員（採用投資の承認者）",
+      "industry_size": "複数拠点を持つ企業の経営層",
+      "issues": [
+        "採用投資の回収可能性が見えない",
+        "現場負荷が増えるだけの採用にならないか懸念",
+        "長期定着と生産性の裏付けを求めている"
+      ],
+      "search_motivation": "国籍別採用の比較材料を見て投資判断したい",
+      "info_behavior": "要点サマリー確認→数値根拠確認→最終承認",
+      "priority": [
+        "定着性",
+        "運用負荷",
+        "教育コスト",
+        "法令リスク"
+      ],
+      "emotion": {
+        "positive": "採用難を打開できる可能性",
+        "negative": "導入失敗時の機会損失"
+      },
+      "cta_goal": "具体提案の相談に進み、導入条件を確定する"
+    }
+  },
+  "structure": [
+    {
+      "h2": "ネパール人材の特徴とは？採用前に押さえる全体像",
+      "h3": [
+        "ネパール人材の増加背景",
+        "検索意図に沿った先出し結論"
+      ],
+      "h4": [],
+      "part": "パーツ2+パーツ5",
+      "journey": "認知",
+      "target_chars": 700
+    },
+    {
+      "h2": "最新データで見るネパール人材の採用環境",
+      "h3": [
+        "在留者数と在留資格別の傾向",
+        "主要業種での受け入れ動向"
+      ],
+      "h4": [],
+      "part": "パーツ2+パーツ9+パーツ15",
+      "journey": "認知",
+      "target_chars": 900
+    },
+    {
+      "h2": "ネパール人材の強みと現場で起こりやすいギャップ",
+      "h3": [
+        "強み：協調性・学習意欲・長期就労志向",
+        "ギャップ：時間感覚と指示解釈",
+        "文化・宗教配慮の実務ポイント"
+      ],
+      "h4": [],
+      "part": "パーツ2+パーツ3+パーツ7",
+      "journey": "検討",
+      "target_chars": 1200
+    },
+    {
+      "h2": "採用前チェックリスト：面接で確認する5項目",
+      "h3": [
+        "在留資格と就労要件",
+        "日本語運用レベル",
+        "家族帯同・生活設計",
+        "宗教配慮事項",
+        "配属後30日アクション"
+      ],
+      "h4": [
+        "質問例テンプレ"
+      ],
+      "part": "パーツ2+パーツ3+パーツ11",
+      "journey": "検討",
+      "target_chars": 1300
+    },
+    {
+      "h2": "ネパール人材を採用する手順",
+      "h3": [
+        "募集〜面接〜内定の流れ",
+        "受け入れ準備（住居・生活・社内教育）",
+        "登録支援機関連携の判断基準"
+      ],
+      "h4": [],
+      "part": "パーツ2+パーツ10+パーツ7",
+      "journey": "導入",
+      "target_chars": 1200
+    },
+    {
+      "h2": "よくある質問（FAQ）",
+      "h3": [
+        "ネパール人材は本当に定着しやすいか",
+        "宗教配慮で必ず確認する点は何か",
+        "日本語力はどこまで必要か",
+        "特定技能と技人国の使い分けは？",
+        "採用コストを抑える方法は？"
+      ],
+      "h4": [],
+      "part": "パーツ2+パーツ12",
+      "journey": "導入",
+      "target_chars": 800
+    }
+  ],
+  "usp_plan": [
+    {
+      "usp": "日本語教師資格保持者によるCan-Doアセスメント",
+      "placement": "採用前チェックリスト：日本語運用レベル",
+      "reason": "資格点数ではなく現場会話可否で判断できるためミスマッチを抑えられる"
+    },
+    {
+      "usp": "業界特化型のカスタマイズ日本語教育",
+      "placement": "強みとギャップ：配属後30日アクション",
+      "reason": "業務語彙に直結した教育を入れ、現場立ち上がりを短縮できる"
+    },
+    {
+      "usp": "入社後6か月の継続学習支援",
+      "placement": "採用手順：受け入れ準備",
+      "reason": "採用後の離職抑制に直結し、経営判断で重視される定着性を補強できる"
+    }
+  ],
+  "primary_info_plan": {
+    "internal_data": [
+      "GSC実績（ネパール人材 特徴: 37imp / CTR2.7% / 平均25.76位）",
+      "過去記事運用で内部リンク0件だった構造課題"
+    ],
+    "expert_knowledge": [
+      "採用面接での質問設計と受け入れ初期対応の実務観点",
+      "文化差による現場定着リスクの予防策"
+    ],
+    "public_data": [
+      "厚生労働省 外国人雇用状況（令和7年10月末）",
+      "法務省 出入国在留管理庁 在留資格別統計",
+      "経済産業省 人材需給関連資料（比較文脈）"
+    ],
+    "case_study": [
+      "採用時に宗教配慮を設計して定着したケース（一般化して記載）",
+      "曖昧指示で初期離職が起きたケースと改善策（一般化）"
+    ]
+  },
+  "target_chars": 6200,
+  "target_plaintext_chars": {
+    "target": 6200,
+    "min_rule": 5000,
+    "basis": "Phase2競合上位3本の実質本文平均が約3585字。比較軸・手順・FAQ・一次情報を上乗せして上位互換を作るため6200字を目標とする。"
+  },
+  "internal_link_plan": {
+    "main_cluster": "C5: 業種別活用（国籍別採用ガイド）",
+    "candidates": [
+      "https://gaikoku-jinzai.tcj-education.com/posts/vietnamese_personnel",
+      "https://gaikoku-jinzai.tcj-education.com/posts/chinese_personnel",
+      "https://gaikoku-jinzai.tcj-education.com/posts/filipino_personnel",
+      "https://gaikoku-jinzai.tcj-education.com/posts/recruitment_of_foreign_workers",
+      "https://gaikoku-jinzai.tcj-education.com/posts/points_to_note",
+      "https://gaikoku-jinzai.tcj-education.com/posts/onboarding"
+    ],
+    "final_links": [
+      "https://gaikoku-jinzai.tcj-education.com/posts/vietnamese_personnel",
+      "https://gaikoku-jinzai.tcj-education.com/posts/chinese_personnel",
+      "https://gaikoku-jinzai.tcj-education.com/posts/filipino_personnel"
+    ],
+    "placement_sections": [
+      "ネパール人材の強みと現場で起こりやすいギャップ",
+      "採用前チェックリスト：面接で確認する5項目",
+      "ネパール人材を採用する手順"
+    ],
+    "reasoning": [
+      "同一クラスター内の国籍比較記事を並べることで比較検討意図を直接満たす",
+      "採用判断フェーズでの回遊性を高め、類似検索の離脱を抑制する",
+      "3件すべて許可URLでクラスター制約を満たす"
+    ]
+  },
+  "claim_evidence_map": [
+    {
+      "id": "C1",
+      "claim": "ネパール人材は日本での受け入れが増加している。",
+      "evidence_type": "公的データ",
+      "source": "厚生労働省 外国人雇用状況（令和7年10月末）",
+      "placement": "最新データで見るネパール人材の採用環境"
+    },
+    {
+      "id": "C2",
+      "claim": "採用成否は文化理解だけでなく受け入れ初期設計で大きく変わる。",
+      "evidence_type": "事例",
+      "source": "競合比較で共通した離職要因整理（Phase2）",
+      "placement": "ネパール人材の強みと現場で起こりやすいギャップ"
+    },
+    {
+      "id": "C3",
+      "claim": "面接時に在留資格・日本語運用・生活設計を同時確認するとミスマッチを減らせる。",
+      "evidence_type": "専門知見",
+      "source": "採用実務の面接設計観点",
+      "placement": "採用前チェックリスト：面接で確認する5項目"
+    },
+    {
+      "id": "C4",
+      "claim": "内部リンクによる国籍比較導線は意思決定の質を高める。",
+      "evidence_type": "社内実績",
+      "source": "既存記事が内部リンク0件だった診断結果（Phase1）",
+      "placement": "ネパール人材を採用する手順"
+    },
+    {
+      "id": "C5",
+      "claim": "採用後の継続学習支援は定着率改善に直結する。",
+      "evidence_type": "一次情報",
+      "source": "TCJの継続支援設計（会社情報資料）",
+      "placement": "ネパール人材を採用する手順"
+    }
+  ],
+  "cta_selection": {
+    "cta_a": {
+      "url": "https://gaikoku-jinzai.tcj-education.com/download/material/recruitment01",
+      "copy": "まず制度と全体像を整理したい担当者向けに、特定技能の要点を1冊で確認できます。",
+      "reason": "情報収集中の読者が最初に必要とするのは制度理解であり、導入直後の離脱を防げる。"
+    },
+    "cta_b": {
+      "url": "https://gaikoku-jinzai.tcj-education.com/download/material/recruitment04",
+      "copy": "面接の見極めを具体化したい段階なら、質問設計をそのまま使える資料が有効です。",
+      "reason": "比較検討段階では実務テンプレ需要が高く、本文中盤でCVしやすい。"
+    },
+    "cta_c": {
+      "url": "https://gaikoku-jinzai.tcj-education.com/contact",
+      "copy": "自社条件での採用可否をすぐ確認したい場合は、個別相談で運用設計まで一気に進められます。",
+      "reason": "検討期読者は最終判断に必要な個別条件確認を求めるため、問い合わせ導線が最適。"
+    }
+  }
+}
