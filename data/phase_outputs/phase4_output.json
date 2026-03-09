@@ -1,9 +1,9 @@
 {
-  "html_path": "output/work_injury_insurance.html",
-  "title": "技能実習生の労災保険適用｜外国人雇用の初動と申請手順【2026】",
-  "meta_description": "技能実習生の労災保険適用を中心に、外国人雇用で会社が迷いやすい初動、書類、報告期限を整理。厚生労働省の一次情報をもとに、申請手順と再発防止の体制まで解説します。",
+  "html_path": "data/phase_outputs/article_foreign_engineer.html",
+  "title": "【2026年版】外国人エンジニア採用の完全ガイド｜メリットやビザ・定着の成功手順",
+  "meta_description": "外国人エンジニアを採用するメリットや失敗しないための注意点、ビザの手続きから入社後のオンボーディングまでを網羅した完全マニュアルです。言語の壁や早期離職を防ぎ、現場で戦力化させるための具体的な教育手順を日本語教育のプロが徹底解説します。",
   "self_check_passed": true,
-  "char_count_check": "validate_article.pyで本文文字数5331字、目標6200字の許容範囲内を確認済み。",
+  "char_count_check": "OK (6206文字)",
   "cta_count": 3,
-  "faq_count": 6
+  "faq_count": 5
 }

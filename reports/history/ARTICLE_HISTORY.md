@@ -29,6 +29,7 @@
 | **2026-03-04** | **nepali_personnel_rewrite_v1.html** | 🟢 HTML | `output/nepali_personnel_rewrite_v1.html` |
 | **2026-03-10** | **time_to_learn_japanese.html** | 🟢 HTML | `output/time_to_learn_japanese.html` |
 | **2026-03-10** | **work_injury_insurance.html** | 🟢 HTML | `output/work_injury_insurance.html` |
+| **2026-03-10** | **parttimework_for_international_students.html** | 🟢 HTML | `output/parttimework_for_international_students.html` |
 
 ---
 
@@ -39,11 +40,11 @@
 1.  [**ネパール人材の特徴5選と採用実務 失敗回避のチェック項目**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/nepali_personnel_rewrite_v1.html) (2026-03-04)
 2.  [**日本語学習時間の目安｜外国人社員が職場で通じるまでの期間と支援**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/time_to_learn_japanese.html) (2026-03-10)
 3.  [**技能実習生の労災保険適用｜外国人雇用の初動と申請手順【2026】**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/work_injury_insurance.html) (2026-03-10)
-4.  [**外国人採用コストの落とし穴【2026】**](file:///C:/Users/suzuki.takumi/.gemini/antigravity/brain/ecef8f28-4d5b-41e4-8b82-5d4dd73c83a3/recruitment_cost_rewrite_final.html) (2026-02-14)
-5.  [**外国人採用の課題と現状**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/外国人採用の課題と現状_リライトWF_完成版_v2.html) (2026-02-12)
-6.  [**外国人採用のための求人票の書き方**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/外国人採用のための求人票の書き方【完全ガイド】.html) (2026-02-10)
-7.  [**在留資格更新**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/在留資格更新.html) (2026-02-09)
-8.  [**留学生アルバイト 28時間ルール**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/留学生アルバイト_28時間ルール.html) (2026-02-03)
+4.  [**留学生アルバイト28時間ルールの計算方法と採用確認【2026】**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/parttimework_for_international_students.html) (2026-03-10)
+5.  [**外国人採用コストの落とし穴【2026】**](file:///C:/Users/suzuki.takumi/.gemini/antigravity/brain/ecef8f28-4d5b-41e4-8b82-5d4dd73c83a3/recruitment_cost_rewrite_final.html) (2026-02-14)
+6.  [**外国人採用の課題と現状**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/外国人採用の課題と現状_リライトWF_完成版_v2.html) (2026-02-12)
+7.  [**外国人採用のための求人票の書き方**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/外国人採用のための求人票の書き方【完全ガイド】.html) (2026-02-10)
+8.  [**在留資格更新**](file:///c:/Users/suzuki.takumi/Desktop/AI/記事作成_TCJ/output/在留資格更新.html) (2026-02-09)
 
 ### 原稿アーカイブ (Markdown)
 `data/article_archives/posts/` フォルダに、2026-02-01付でインポートされた100件以上の記事原稿が保存されています。将来的なリライト候補として利用可能です。
