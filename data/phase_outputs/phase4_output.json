@@ -1,9 +1,9 @@
 {
-  "html_path": "output/time_to_learn_japanese.html",
-  "title": "日本語学習時間の目安｜外国人社員が職場で通じるまでの期間と支援",
-  "meta_description": "日本語学習時間の目安を、JLPT N4〜N2の学習時間レンジと職場で通じるレベルから整理。外国人社員が伸び悩む理由と、企業が組むべき日本語支援も解説します。",
+  "html_path": "output/work_injury_insurance.html",
+  "title": "技能実習生の労災保険適用｜外国人雇用の初動と申請手順【2026】",
+  "meta_description": "技能実習生の労災保険適用を中心に、外国人雇用で会社が迷いやすい初動、書類、報告期限を整理。厚生労働省の一次情報をもとに、申請手順と再発防止の体制まで解説します。",
   "self_check_passed": true,
-  "char_count_check": "プレーンテキスト5544字で目標6200字の許容範囲内。CTA3件、FAQ6問、内部リンクカード3件、プレースホルダー画像なしを確認済み。",
+  "char_count_check": "validate_article.pyで本文文字数5331字、目標6200字の許容範囲内を確認済み。",
   "cta_count": 3,
   "faq_count": 6
 }

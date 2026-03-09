@@ -133,3 +133,4 @@ Timestamp            | File Name                                | Path
 2026-02-24 10:56:02  | foreign_license_conversion_v9.html      | c:\Users\suzuki.takumi\Desktop\AI\記事作成_TCJ\output\foreign_license_conversion_v9.html
 2026-03-04 00:21:58  | nepali_personnel_rewrite_v1.html        | c:\Users\suzuki.takumi\Desktop\AI\記事作成_TCJ\output\nepali_personnel_rewrite_v1.html
 2026-03-10 01:03:39  | time_to_learn_japanese.html             | c:\Users\suzuki.takumi\Desktop\AI\記事作成_TCJ\output\time_to_learn_japanese.html
+2026-03-10 01:42:30  | work_injury_insurance.html              | c:\Users\suzuki.takumi\Desktop\AI\記事作成_TCJ\output\work_injury_insurance.html
