@@ -34,6 +34,7 @@ import csv
 import json
 import os
 import re
+import subprocess
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
@@ -51,9 +52,10 @@ GSC_DIR        = "data/gsc"
 PUBLISHED_CSV  = "data/published_urls/export-all-urls-392852.CSV"
 ARCHIVES_DIR   = "data/article_archives/posts"
 ARTICLES_DIR   = "articles"
+OUTPUT_DIR     = "output"
 REPORTS_DIR    = "reports"
 
-# 「最近リライト済み」とみなす日数（この日数以内に articles/*.html が更新されていたら除外）
+# 「最近リライト済み」とみなす日数
 RECENTLY_REWRITTEN_DAYS = 30
 
 # ---------------------------------------------------------------------------
@@ -193,30 +195,75 @@ def load_gsc_data() -> dict[str, dict]:
 
 
 # ---------------------------------------------------------------------------
-# データ取得：ローカル articles/ の更新日（最近リライト済み判定）
+# データ取得：ローカル成果物と git 履歴（最近リライト済み判定）
 # ---------------------------------------------------------------------------
-def load_recently_rewritten_slugs(days: int = RECENTLY_REWRITTEN_DAYS) -> set[str]:
+def normalize_slug_variants(stem: str) -> set[str]:
     """
-    articles/ 以下の HTML ファイルの更新日時を見て、
+    ファイル名やコミットメッセージから取ったスラッグを比較用に正規化する。
+    """
+    base = re.sub(r"_(rewrite|v\d+)$", "", stem, flags=re.IGNORECASE)
+    return {
+        base,
+        base.replace("_", "-"),
+        base.replace("-", "_"),
+    }
+
+
+def load_recently_rewritten_slugs_from_files(base_dir: str, days: int = RECENTLY_REWRITTEN_DAYS) -> set[str]:
+    """
+    指定ディレクトリ以下の HTML ファイルの更新日時を見て、
     直近 N 日以内に更新されたスラッグのセットを返す。
     """
     cutoff = datetime.now().timestamp() - days * 86400
     slugs: set[str] = set()
-    articles_dir = Path(ARTICLES_DIR)
-    if not articles_dir.exists():
+    target_dir = Path(base_dir)
+    if not target_dir.exists():
         return slugs
 
-    for html_file in articles_dir.rglob("*.html"):
+    for html_file in target_dir.rglob("*.html"):
         mtime = html_file.stat().st_mtime
         if mtime >= cutoff:
-            stem = html_file.stem
-            # _rewrite / _v数字 のサフィックスを除去してスラッグ推定
-            stem = re.sub(r"_(rewrite|v\d+)$", "", stem, flags=re.IGNORECASE)
-            slug = stem.replace("_", "-")
-            slugs.add(slug)
-            # アンダースコア版も追加（一致精度向上）
-            slugs.add(stem)
+            slugs.update(normalize_slug_variants(html_file.stem))
 
+    return slugs
+
+
+def load_recently_rewritten_slugs_from_git(days: int = RECENTLY_REWRITTEN_DAYS) -> set[str]:
+    """
+    git log の rewrite/new コミットから直近 N 日のスラッグを拾う。
+    """
+    slugs: set[str] = set()
+    try:
+        result = subprocess.run(
+            ["git", "log", f"--since={days}.days", "--format=%s"],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            check=True,
+        )
+    except (subprocess.SubprocessError, OSError):
+        return slugs
+
+    for line in result.stdout.splitlines():
+        m = re.match(r"^(rewrite|new):\s+([^\s]+)\s+—\s+KW:", line.strip())
+        if m:
+            slugs.update(normalize_slug_variants(m.group(2)))
+
+    return slugs
+
+
+def load_recently_rewritten_slugs(days: int = RECENTLY_REWRITTEN_DAYS) -> set[str]:
+    """
+    直近 N 日以内にリライトまたは新規作成された記事スラッグを返す。
+    判定元:
+      - articles/*.html
+      - output/*.html
+      - git log の rewrite/new コミット
+    """
+    slugs: set[str] = set()
+    slugs.update(load_recently_rewritten_slugs_from_files(ARTICLES_DIR, days))
+    slugs.update(load_recently_rewritten_slugs_from_files(OUTPUT_DIR, days))
+    slugs.update(load_recently_rewritten_slugs_from_git(days))
     return slugs
 
 
