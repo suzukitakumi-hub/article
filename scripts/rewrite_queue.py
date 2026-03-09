@@ -228,26 +228,38 @@ def load_recently_rewritten_slugs_from_files(base_dir: str, days: int = RECENTLY
     return slugs
 
 
-def load_recently_rewritten_slugs_from_git(days: int = RECENTLY_REWRITTEN_DAYS) -> set[str]:
-    """
-    git log の rewrite/new コミットから直近 N 日のスラッグを拾う。
-    """
+def parse_rewrite_slugs_from_git_log(stdout: str) -> set[str]:
     slugs: set[str] = set()
-    try:
-        result = subprocess.run(
-            ["git", "log", f"--since={days}.days", "--format=%s"],
-            capture_output=True,
-            text=True,
-            encoding="utf-8",
-            check=True,
-        )
-    except (subprocess.SubprocessError, OSError):
-        return slugs
-
-    for line in result.stdout.splitlines():
+    for line in stdout.splitlines():
         m = re.match(r"^(rewrite|new):\s+([^\s]+)\s+—\s+KW:", line.strip())
         if m:
             slugs.update(normalize_slug_variants(m.group(2)))
+    return slugs
+
+
+def load_recently_rewritten_slugs_from_git(days: int = RECENTLY_REWRITTEN_DAYS) -> set[str]:
+    """
+    git log の rewrite/new コミットから直近 N 日のスラッグを拾う。
+    ローカル HEAD と、取得済みであれば origin/main も参照する。
+    """
+    slugs: set[str] = set()
+    refs = [None, "origin/main"]
+
+    for ref in refs:
+        cmd = ["git", "log", f"--since={days}.days", "--format=%s"]
+        if ref:
+            cmd.append(ref)
+        try:
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                encoding="utf-8",
+                check=True,
+            )
+        except (subprocess.SubprocessError, OSError):
+            continue
+        slugs.update(parse_rewrite_slugs_from_git_log(result.stdout))
 
     return slugs
 
