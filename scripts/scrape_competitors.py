@@ -9,7 +9,7 @@ scrape_competitors.py - 競合記事の本文をフル取得するスクリプ�
   # URLリストファイルから読み込み（1行1URL）
   python scripts/scrape_competitors.py --file data/competitor/urls.txt
 
-  # キーワードでDuckDuckGo検索→上位N件を自動取得
+  # キーワードでGoogle検索→上位N件を自動取得
   python scripts/scrape_competitors.py --keyword "外国人採用 課題" --top 5
 
   # 組み合わせも可
@@ -185,17 +185,15 @@ def to_markdown(data: dict) -> str:
 
 
 def search_top_urls(keyword: str, top_n: int = 5) -> list[str]:
-    """DuckDuckGoでキーワード検索し、上位URLを返す（自社ドメイン除外）"""
+    """Google検索でキーワード検索し、上位URLを返す（自社ドメイン除外）"""
     try:
-        from duckduckgo_search import DDGS
-        print(f"  🔍 DuckDuckGo検索: {keyword}")
-        with DDGS() as ddgs:
-            results = list(ddgs.text(keyword, region="jp-jp", max_results=top_n + 5))
+        from googlesearch import search
+        print(f"  🔍 Google検索: {keyword}")
+        # num_results は取りこぼし防止で多めに取得し、後で絞る
+        raw = list(search(keyword, num_results=top_n + 10, lang="ja", region="jp"))
         urls = [
-            r["href"]
-            for r in results
-            if OWN_DOMAIN not in r.get("href", "")
-            and r.get("href", "").startswith("http")
+            u for u in raw
+            if OWN_DOMAIN not in u and u.startswith("http")
         ]
         urls = list(dict.fromkeys(urls))[:top_n]  # 重複除去＋上位N件
         print(f"  → {len(urls)}件取得")
@@ -203,7 +201,7 @@ def search_top_urls(keyword: str, top_n: int = 5) -> list[str]:
             print(f"     {i}. {u}")
         return urls
     except ImportError:
-        print("⚠️ duckduckgo_search が未インストールです: pip install duckduckgo-search")
+        print("⚠️ googlesearch-python が未インストールです: pip install googlesearch-python")
         return []
     except Exception as e:
         print(f"⚠️ 検索エラー: {e}")
