@@ -1,9 +1,20 @@
 {
-  "html_path": "data/phase_outputs/article_foreign_engineer.html",
-  "title": "【2026年版】外国人エンジニア採用の完全ガイド｜メリットやビザ・定着の成功手順",
-  "meta_description": "外国人エンジニアを採用するメリットや失敗しないための注意点、ビザの手続きから入社後のオンボーディングまでを網羅した完全マニュアルです。言語の壁や早期離職を防ぎ、現場で戦力化させるための具体的な教育手順を日本語教育のプロが徹底解説します。",
+  "html_path": "output/business_manners.html",
+  "title": "海外ビジネスマナーの違い5場面 外国人材受け入れの教え方",
+  "meta_description": "海外ビジネスマナーの違いを、会議・報連相・時間感覚・敬語・フィードバックの5場面で整理。外国人材受け入れで日本企業が最初の1か月に教えるべきルールを、公的データとTCJの知見から解説します。",
   "self_check_passed": true,
-  "char_count_check": "OK (6206文字)",
+  "char_count_check": {
+    "target": 6200,
+    "actual": 7218,
+    "within_range": true
+  },
   "cta_count": 3,
-  "faq_count": 5
+  "faq_count": 6,
+  "internal_links": [
+    "https://gaikoku-jinzai.tcj-education.com/posts/clear_japanese",
+    "https://gaikoku-jinzai.tcj-education.com/posts/simple_japanese",
+    "https://gaikoku-jinzai.tcj-education.com/posts/onboarding"
+  ],
+  "placeholder_images_removed": true,
+  "claim_evidence_verified": true
 }
